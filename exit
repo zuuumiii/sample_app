@@ -1,0 +1,59 @@
+[33mcommit 2354bba34aff0aff264d04b94db0fb27d6fc18a5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31mheroku/main[m[33m, [m[1;32mbasic-login[m[33m)[m
+Author: keisuke kitazumi <kitazumi.gc8@gmial.com>
+Date:   Wed Feb 2 08:45:53 2022 +0000
+
+    Implement basic login
+
+[33mcommit cc2046c920b7ef4dd0552362307f18aeff3a2830[m[33m ([m[1;32msign-up[m[33m)[m
+Author: keisuke kitazumi <kitazumi.gc8@gmial.com>
+Date:   Wed Feb 2 01:21:31 2022 +0000
+
+    Use SSL and the Puma webserver in production
+
+[33mcommit fb8fa7f2321d74176bd9aa8c1e5cef592a4a326a[m
+Author: keisuke kitazumi <kitazumi.gc8@gmial.com>
+Date:   Wed Feb 2 01:07:55 2022 +0000
+
+    Finished user signup
+
+[33mcommit 6db6adced020a6d924620049c7e44c725e091d37[m[33m ([m[1;32mmodeling-users[m[33m)[m
+Author: keisuke kitazumi <kitazumi.gc8@gmial.com>
+Date:   Tue Feb 1 05:54:17 2022 +0000
+
+    make a basic User model(including secure password)
+
+[33mcommit 24609ac098f5f494f806604327fa163a22c96331[m[33m ([m[1;32mfilling-in-layout[m[33m)[m
+Author: keisuke kitazumi <kitazumi.gc8@gmial.com>
+Date:   Tue Feb 1 01:04:49 2022 +0000
+
+    finished layout and routes
+
+[33mcommit e1b72f237548af9d70410c9abf29f0a3ff21204b[m[33m ([m[1;32mstatic-pages[m[33m)[m
+Author: keisuke kitazumi <kitazumi.gc8@gmial.com>
+Date:   Thu Jan 27 11:42:15 2022 +0000
+
+    Finished static pages
+
+[33mcommit ef4df76de41d194fa5e4272d404998c1dc39edd4[m[33m ([m[1;31morigin/static-pages[m[33m)[m
+Author: keisuke kitazumi <kitazumi.gc8@gmial.com>
+Date:   Thu Jan 27 04:31:03 2022 +0000
+
+    Add a Static Pages controller
+
+[33mcommit cb69cd14866aded6d430503030ee7bbda59e72c9[m
+Author: keisuke kitazumi <kitazumi.gc8@gmial.com>
+Date:   Thu Jan 27 04:20:24 2022 +0000
+
+    IMprove README
+
+[33mcommit b002981851a488c07f8719002f5562833688eb48[m
+Author: keisuke kitazumi <kitazumi.gc8@gmial.com>
+Date:   Thu Jan 27 04:10:51 2022 +0000
+
+    Add Hello
+
+[33mcommit f870f0cfa259dd5bfed979b1a0af2ffb934796b0[m
+Author: keisuke kitazumi <kitazumi.gc8@gmial.com>
+Date:   Thu Jan 27 04:00:05 2022 +0000
+
+    Initialize repository
