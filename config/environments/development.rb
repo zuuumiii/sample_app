@@ -56,6 +56,10 @@ Rails.application.configure do
   # Raises error for missing translations.
   # config.action_view.raise_on_missing_translations = true
 
+  config.action_mailer.raise_delivery_errors = false
+  host = "fc1cfcb8093d4301b7189c983bb25426.vfs.cloud9.ap-northeast-1.amazonaws.com"
+  config.action_mailer.default_url_options = { host: host, protocol: "https"}
+
   # Use an evented file watcher to asynchronously detect changes in source code,
   # routes, locales, etc. This feature depends on the listen gem.
   config.file_watcher = ActiveSupport::EventedFileUpdateChecker
